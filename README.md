@@ -16,3 +16,5 @@ As demais pastas são compostas por material de apoio aos principais:
 2) Olist_map: Contém todos os csv segmentados segundo foco do grupo e os Shapefiles criados no QGIS
 3) PNG: Contém todos os arquivos PNG utilizado nos códigos
 4) dados_transformados: Possui o dado base da análise exploratória. Esse dado é uma junção de vários datasets Olist
+
+Resultado de análise de sentimentos pode ser conferido em https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py 
