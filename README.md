@@ -2,6 +2,8 @@
 Projeto Stack Labs do time koalas apresentado no dia 27/01/2022
 Integrantes: Clarice Satiko Aoto, Isis Souza, Marcos Costa, Octavio Oliveira e Peterson Silva
 
+## Objeto do Projeto: exploratory analytics and NLP technique over customer buys comments.
+
 No corpo da pasta principal há os principais arquivos utilizados no processo.
 1) 20220126_MAQUINA_PREDITIVA.ipynb: traz o código utilizado para Machine Learning
 2) 20220126tratamentoDadosNLP.ipynb: traz o código de tratamento NLP, alguns insights e um teste de modelos para ML
@@ -18,3 +20,5 @@ As demais pastas são compostas por material de apoio aos principais:
 4) dados_transformados: Possui o dado base da análise exploratória. Esse dado é uma junção de vários datasets Olist
 
 Resultado de análise de sentimentos pode ser conferido em https://share.streamlit.io/clarice-satiko-aoto/stack-lab/main/app.py 
+
+<img alt="Github repo size" src="https://img.shields.io/github/repo-size/OctavioBigData/NLP-with-public-data-from-Olist-Marketplace?style=plastic">
